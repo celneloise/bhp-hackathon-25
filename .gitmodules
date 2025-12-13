@@ -1,0 +1,3 @@
+[submodule "buoyguard"]
+	path = buoyguard
+	url = https://github.com/celneloise/buoyguard.git
